@@ -37,6 +37,9 @@
                 <li>
                   <a href="https://stackoverflow.com/users/10030431/mahmud-hasan-jion" style="text-decoration: none; color:#F3862F" target="_blank">Stack Overflow</a>
                 </li>
+                <li>
+                  <a href="https://aiub.academia.edu/MahmudHasanJion" style="text-decoration: none; color:#3C3F42" target="_blank">Academia.edu</a>
+                </li>
               </ul>
           </div>
         </b-jumbotron>
