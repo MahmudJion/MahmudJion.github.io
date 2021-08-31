@@ -11,7 +11,7 @@
             A Software Engineer with more than two years of experience in
             software and web development. <br />I have completed my Bachelor in
             Computer Science & Engineering from American International
-            University-Bangladesh (AIUB) and since then working as web developer
+            University-Bangladesh (AIUB) and since then working as Web Developer
             and had some experience on building multi-vendors E-commerce
             platforms.
           </p>
