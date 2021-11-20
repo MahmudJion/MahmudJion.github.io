@@ -8,12 +8,10 @@
           </b-navbar>
           <br />
           <p>
-            A Software Engineer with more than two years of experience in
-            software and web development. <br />I have completed my Bachelor in
-            Computer Science & Engineering from American International
-            University-Bangladesh (AIUB) and since then working as Web Developer
-            and had some experience on building multi-vendors E-commerce
-            platforms.
+            A Software Engineer with three years of experience in
+            software and web development. <br /> I am doing my Master's in Software Engineering at the University of Hertforshire.
+            I have completed my Bachelor in Computer Science & Engineering from American International University-Bangladesh (AIUB) and since then working as Web Developer
+            and had some experience on building multi-vendors E-commerce platforms.
           </p>
           <h4>Currently working with</h4>
           <b-navbar type="light" variant="warning">
