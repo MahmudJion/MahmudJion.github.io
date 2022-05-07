@@ -16,7 +16,7 @@
           <h4>Currently working with</h4>
           <b-navbar type="light" variant="warning">
             <h3>
-              PHP, Codeigniter, Vue.js/React, Javascript, Next/Nuxt, Node.js, Ruby and Python
+              PHP, Codeigniter, Laravel, Javascript, Vue.js, React, Next/Nuxt, Node.js, Ruby and Python
             </h3>
           </b-navbar>
           <br />
