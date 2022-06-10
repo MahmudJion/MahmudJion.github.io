@@ -11,7 +11,7 @@
             A Software Engineer with three years of experience in
             software and web development. <br /> I am currently doing my Master's in Software Engineering at the <a href="https://www.herts.ac.uk/" style="text-decoration: none; color:#703C84" target="_blank">University of Hertforshire</a>.
             I have completed my Bachelor in Computer Science & Engineering from <a href="https://www.aiub.edu/" style="text-decoration: none; color:#224077" target="_blank">American International University-Bangladesh (AIUB)</a> and since then working as Web Developer
-            and had some experience on building multi-vendors E-commerce platforms.
+            and had some experience on building multi-vendor E-commerce platforms.
           </p>
           <h4>Currently working with</h4>
           <b-navbar type="light" variant="warning">
