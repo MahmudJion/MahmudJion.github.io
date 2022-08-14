@@ -14,7 +14,7 @@
             and had some experience on building multi-vendor E-commerce platforms.
           </p>
           <h4>Currently working with</h4>
-          <b-navbar type="light" variant="mwarning">
+          <b-navbar type="light" variant="warning">
             <h3>
               PHP, Codeigniter, Laravel, Javascript, Vue.js, React, Next/Nuxt, Node.js, Ruby and Python
             </h3>
