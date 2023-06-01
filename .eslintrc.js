@@ -1,4 +1,7 @@
 module.exports = {
+  output: {
+    hashFunction: 'xxhash64',
+  },
   root: true,
   env: {
     browser: true,
@@ -17,10 +20,10 @@ module.exports = {
   plugins: ['prettier'],
   // add your custom rules here
   rules: {},
-//   'prettier/prettier': [
-//     'error',
-//     {
-//       endOfLine: 'auto',
-//     },
-//   ],
+  //   'prettier/prettier': [
+  //     'error',
+  //     {
+  //       endOfLine: 'auto',
+  //     },
+  //   ],
 }
