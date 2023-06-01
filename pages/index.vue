@@ -2,7 +2,7 @@
     <div>
       <b-container>
         <div>
-          <b-jumbotron header="Hello 👋" lead="">
+          <b-jumbotron header="Hello 👋" lead="" class="fade-in">
             <b-navbar type="light" variant="warning">
               <h2>I'm Mahmud Hasan Jion,</h2>
             </b-navbar>
@@ -50,7 +50,7 @@
   </template>
 
   <script>
-  export default {}
+  export default {};
   </script>
 
   <style>
@@ -62,7 +62,3 @@
     justify-content: right;
     align-items: center;
   }
-  .ul {
-    list-style-type: square;
-  }
-  </style>
