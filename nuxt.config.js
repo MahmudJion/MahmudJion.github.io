@@ -14,23 +14,23 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    title: 'Mahmud Hasan Jion' || '',
+    title: '' || '',
     meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { hid: 'description', name: 'description', content: 'Currently working with PHP, Codeigniter, Vue.js/React, Javascript, Next/Nuxt and Node.js'},
-        { hid: 'keywords', name: 'keywords', content: "Mahmud Hasan Jion" },
+        { hid: 'description', name: 'description', content: ''},
+        { hid: 'keywords', name: 'keywords', content: "" },
         { hid: 'classification', name: 'classification', content: 'Blog' },
-        { hid: 'url', name: 'url', content: "https://mahmudjion.github.io/" },
+        { hid: 'url', name: 'url', content: "" },
         // OG SEO
-        { hid: 'og:title', name: 'og:title', content: 'Mahmud Hasan Jion' },
-        { hid: 'og:description', name: 'og:description', content: 'Currently working with PHP, Codeigniter, Vue.js/React, Javascript, Next/Nuxt and Node.js' },
+        { hid: 'og:title', name: 'og:title', content: '' },
+        { hid: 'og:description', name: 'og:description', content: '' },
         { hid: 'og:type', name: 'og:type', content: 'Blog' },
-        { hid: 'og:url', name: 'og:url', content: "https://mahmudjion.github.io/" }
+        { hid: 'og:url', name: 'og:url', content: "" }
     ],
     link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-            { rel: "canonical", href: "https://mahmudjion.github.io/" }
+            { rel: "canonical", href: "" }
           ],
   },
   /*
