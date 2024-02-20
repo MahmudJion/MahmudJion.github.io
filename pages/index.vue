@@ -9,8 +9,8 @@
             <br />
             <p>
               A Software Engineer with over three years of experience in
-              software and web development. <br /> I am currently doing my Master's in Software Engineering at the <a href="https://www.herts.ac.uk/" style="text-decoration: none; color:#703C84" target="_blank">University of Hertforshire</a>.
-              I have completed my Bachelor in Computer Science & Engineering from <a href="https://www.aiub.edu/" style="text-decoration: none; color:#224077" target="_blank">American International University-Bangladesh (AIUB)</a> and since then working as Web Developer
+              software and web development. <br /> I have completed my Master's in Software Engineering at the <a href="https://www.herts.ac.uk/" style="text-decoration: none; color:#703C84" target="_blank">University of Hertforshire</a>.
+              I had my Bachelor in Computer Science & Engineering from <a href="https://www.aiub.edu/" style="text-decoration: none; color:#224077" target="_blank">American International University-Bangladesh (AIUB)</a> and since then working as Web Developer
               and had some experience on building multi-vendor E-commerce platforms.
             </p>
             <h4>Currently working with</h4>
@@ -28,9 +28,6 @@
                   </li>
                   <li>
                     <a href="https://www.linkedin.com/in/mahmud-hasan-jion/" style="text-decoration: none; color:#0A66C2" target="_blank">Linkedin</a>
-                  </li>
-                  <li>
-                    <a href="https://twitter.com/mahmudhasanjion" style="text-decoration: none; color:#1A91DA" target="_blank">Twitter</a>
                   </li>
                   <li>
                     <a href="https://stackoverflow.com/users/10030431/mahmud-hasan-jion" style="text-decoration: none; color:#F3862F" target="_blank">Stack Overflow</a>
