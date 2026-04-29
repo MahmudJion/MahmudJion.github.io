@@ -16,7 +16,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "bootstrap": "^5.3.3",
     "bootstrap-vue": "^2.23.1",
-    "defu": "^6.1.4",
+    "defu": "^6.1.5",
     "nuxt": "^3.19.0"
   },
   "devDependencies": {
