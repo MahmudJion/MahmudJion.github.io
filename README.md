@@ -16,15 +16,15 @@ $ npm run start
 # generate static project
 $ npm run generate
 
-# deploy site locally to master branch
+# deploy site locally to gh-pages branch
 $ npm run deploy
 ```
 
 ## GitHub Pages Deployment
 
-This project uses GitHub Actions to publish the generated `dist` folder to the `master` branch when changes are pushed to the `development` branch.
+This project uses GitHub Actions to publish the generated `dist` folder to the `gh-pages` branch when changes are pushed to the `development` branch.
 
-The workflow also configures GitHub Pages to serve from the `master` branch root automatically.
+The workflow also configures GitHub Pages to serve from the `gh-pages` branch root automatically.
 
 > Note: Local builds require Node.js `>=20.19.0`.
 
