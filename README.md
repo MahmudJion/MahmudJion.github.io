@@ -24,6 +24,8 @@ $ npm run deploy
 
 This project uses GitHub Actions to publish the generated `dist` folder to the `master` branch when changes are pushed to the `development` branch.
 
+The workflow also configures GitHub Pages to serve from the `master` branch root automatically.
+
 > Note: Local builds require Node.js `>=20.19.0`.
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
