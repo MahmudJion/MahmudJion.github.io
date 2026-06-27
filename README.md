@@ -16,8 +16,14 @@ $ npm run start
 # generate static project
 $ npm run generate
 
-# deploy site
+# deploy site locally to master branch
 $ npm run deploy
 ```
+
+## GitHub Pages Deployment
+
+This project uses GitHub Actions to publish the generated `dist` folder to the `master` branch when changes are pushed to the `development` branch.
+
+> Note: Local builds require Node.js `>=20.19.0`.
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
